@@ -1,0 +1,379 @@
+TAG NAME,TAG TYPE,PIXEL ID
+ci - quantcast promise article - uk - no end,img,//pixel.quantserve.com/pixel/p-TKw8bLUaDnse0.gif?labels=_fp.event.Perfect+Colour+Promise
+fc - vpv - product exterior - uk - no end,flc,9233916
+fc - vpv - all pages - uk - no end,flc,9233916
+fc - vpv - product overview - uk - no end,flc,9233916
+cl - ev - conversion linker - uk - no end,gclidw,Unknown
+ds - thank you page - nl - end 3012,fls,Unknown
+dc - kids room article - uk - no end,flc,2610412
+ci - quantcast advice overview - uk - no end,img,//pixel.quantserve.com/pixel/p-TKw8bLUaDnse0.gif?labels=_fp.event.Browse+Decorating+Advice
+ch - pgv - usabilla events - global - no end,html,Unknown
+ar - pv - remarketing - nl - no end,sp,1043704852
+tw - twitter conversion - nl - no end,twitter_website_tag,ntp7l
+tb - tradedoubler sale conversion - nl - no end,tdsc,{{1pc - tradedoubler - nl}}
+fs - transaction complete - nl - no end,fls,Unknown
+fc - remarketing incl custom param - nl - no end,flc,5434613
+ac - pv - transaction - nl - no end,awct,1043704852
+ch - ev - nanigans order success colour tester - nl - no end,html,Unknown
+ch - pgv - asksid url to event - uk nl be fr - no end,html,Unknown
+ch - ev - nanigans add to cart colour tester - nl - no end,html,Unknown
+ch - pgv - global usabilla script - global - no end,html,Unknown
+ci - quantcast tester product page - uk - no end,img,//pixel.quantserve.com/pixel/p-TKw8bLUaDnse0.gif?labels=_fp.event.Products+-+Colour+Tester
+ci - quantcast scrapbook - uk - no end,img,//pixel.quantserve.com/pixel/p-TKw8bLUaDnse0.gif?labels=_fp.event.Scrap+Book
+pt - ev - add to cart - nl - no end,pntr,2614131595003
+pt - vpv - all pages - nl - no end,pntr,2614131595003
+fc - vpv - cart page - uk - no end,flc,9233916
+ci - quantcast shopping cart - uk - no end,img,//pixel.quantserve.com/pixel/p-TKw8bLUaDnse0.gif?labels=_fp.event.Shopping+Cart
+awi - pgv - all pages - uk - no end,awj,12009
+fc - pgv - decorators - uk - no end,flc,9233916
+awi - ce - transaction complete - uk - no end,awc,Unknown
+ac - transaction complete - uk - no end,awct,977159460
+fc - vpv - payment page - uk - no end,flc,9233916
+fc - vpv - confirmation page - uk - no end,fls,Unknown
+dc - weathershield article - uk - no end,flc,2610412
+fc - vpv - delivery page - uk - no end,flc,9233916
+ch - ev - ecommerce 3.0 - uk fr nl be - no end,html,Unknown
+ds - kleurtester add to cart - nl - end 3012,fls,Unknown
+fc - find a store click on pdp - nl - no end,flc,5434613
+pt - vpv - checkout - nl - no end,pntr,2614131595003
+ch - ev - nanigans choose a colour - nl - no end,html,Unknown
+fc - vpv - product interior - uk - no end,flc,9233916
+ci - quantcast storefinder - uk - no end,img,//pixel.quantserve.com/pixel/p-TKw8bLUaDnse0.gif?labels=_fp.event.StoreFinder
+fc - vpv - address page - uk - no end,flc,9233916
+ci - quantcast colour overview - uk - no end,img,//pixel.quantserve.com/pixel/p-TKw8bLUaDnse0.gif?labels=_fp.event.Browse+Colours
+dc - weathershield homepage - uk - no end,flc,2610412
+bg - pv - bing uet all pages - uk - no end,baut,Unknown
+ar - ev - purchase - uk - no end,awct,977159460
+ar - dulux.co.uk remarketing - uk - no end,sp,977159460
+ci - quantcast endurance article - uk - no end,img,//pixel.quantserve.com/pixel/p-TKw8bLUaDnse0.gif?labels=_fp.event.Endurance
+fc - ce - colour detail view - uk - no end,flc,9233916
+ci - quantcast inspiration overview - uk - no end,img,//pixel.quantserve.com/pixel/p-TKw8bLUaDnse0.gif?labels=_fp.event.Browse+Inspiration
+pt - vpv - pinterest add to cart - uk - end 9912,pntr,2615523521550
+ds - transaction complete - uk - no end,fls,Unknown
+fc - ce - add to cart - uk - no end,flc,9233916
+fc - vpv - colour detail pages - uk - no end,flc,9233916
+fc - vpv - colour and inspiration overview page - uk - no end,flc,9233916
+ci - quantcast checkout complete - uk - no end,img,//pixel.quantserve.com/pixel/p-TKw8bLUaDnse0.gif?labels=_fp.event.Checkout+Confirmation&orderid={{dlv - transaction.transactionID - uk fr nl be}}&revenue={{dlv - transaction.total.transactionTotal - uk fr nl be}}
+ci - quantcast kids bedrooms article - uk - no end,img,//pixel.quantserve.com/pixel/p-TKw8bLUaDnse0.gif?labels=_fp.event.Kids+Bedrooms
+fp - pgv - all pages 1632094923699192 - uk - no end,cvt_31470972_1292,1632094923699192
+fp - pgv - facebook pure - nl - no end,cvt_31470972_1292,575497929320684
+fp - pgv - facebook pixel colour tester pdp visualizer app - nl - no end,cvt_31470972_1292,1130708530314163
+fp - pgv - all pages - nl - no end,cvt_31470972_1292,196227844459862
+fp - evn - initiate checkout - nl - no end,cvt_31470972_1292,1130708530314163
+fp - evn - purchase complete - nl - no end,cvt_31470972_1292,1130708530314163
+fp - evn - add to cart - nl - no end,cvt_31470972_1292,1130708530314163
+fp - pgv - home page - nl - no end,cvt_31470972_1292,965059346866069
+fp - evn - facebook pixel purchase confirmation - nl - no end,cvt_31470972_1292,196227844459862
+pt - vpv - ecommerce checkout - uk - end 2509,pntr,2615523521550
+dc - pv - wet tester colour inspiration - be - no end,flc,4743368
+dc - pv - atelier article page - be - no end,flc,4743368
+ci - pv - motivos para sol e chuva - br - no end,img,https://bcp.crwdcntrl.net/5/c=11370/b=70378273
+dc - pv - wet tester advice overview - be - no end,flc,4743368
+ac - pv - contact form - lt - no end,awct,688848055
+an - segment pixel advice overview - pl - no end,html,Unknown
+ci - lcl - teste facil coral - br - no end,img,https://bcp.crwdcntrl.net/5/c=11370/b=70508126
+dc - pv - levis atelier advice overview page - be - no end,flc,4743368
+ch - cl - adform save to scrapbook - pl - no end,html,Unknown
+dc - pv - wet tester article ambiance - be - no end,flc,4743368
+an - segment pixel colour overview - pl - no end,html,Unknown
+ci - ce - crwdcntrl newsletter thank you popup - br - no end,img,https://bcp.crwdcntrl.net/5/c=11370/b=54594489
+ch - cl - adform open search - pl - no end,html,Unknown
+an - segment pixel storefinder - pl - no end,html,Unknown
+ac - pv - storefinder page - lt - no end,awct,688848055
+an - segment pixel inspiration overview - pl - no end,html,Unknown
+fp - pgv - facebook pixel incalex ultralavable - uy - no end,cvt_31470972_1292,673587859458882
+ci - custom pixel products - pl - no end,img,//eu-gmtdmp.gd1.mookie1.com/tagr/v1/activity?acid=17&inst=EU&tagid=118792183&src.rand={{Random Number}}&trb.clientID=53139&trb.activityID=17454
+"ar - pgv - google ads remarketing - id, sg, lk, my, pk, th, vn, in - no end",sp,746749348
+dc - pv - wet tester calculation paint - be - no end,flc,4743368
+ci - pv - plista pixel dulux ultra resist timer - ru - no end,img,https://farm-ru.plista.com/activity2;domainid:1025642;event:11
+ch - cl - adform buy tester - pl - no end,html,Unknown
+ch - cl - adform login users - pl - no end,html,Unknown
+ch - cl - adform storefinder searchzone - pl - no end,html,Unknown
+dc - pv - wet tester store orders - be - no end,flc,4743368
+ci - pgv - adform - pl - no end,img,https://track.adform.net/Serving/TrackPoint/?pm=1152762
+ch - cl - adform subscription newsletter - pl - no end,html,Unknown
+fp - evn - add to cart - fr - no end,cvt_31470972_1292,213728745844132
+ch - pv - sizmek tag - fr - no end,html,Unknown
+an - segment pixel home - pl - no end,html,Unknown
+ch - cl - adform add to shoppinglist - pl - no end,html,Unknown
+ci - pv - salas coloridas - br - no end,img,https://bcp.crwdcntrl.net/5/c=11370/b=70137511
+ar - duluxvalentine.com remarketing - fr - no end,sp,991791023
+ar - pgv - all pages - pl - no end,sp,1029207089
+ci - segment pixel products - pl - no end,img,https://ib.adnxs.com/seg?add=2717766&t=2
+ch - custom pixel storefinder - pl - no end,html,Unknown
+fp - pgv - all pages - fr - no end,cvt_31470972_1292,213728745844132
+an - segment pixel scrapbook - pl - no end,html,Unknown
+ch - cl - adform open calculator - pl - no end,html,Unknown
+fp - pgv - all pages - ee - no end,cvt_31470972_1292,844298542574260
+ch - cl - adform download app - pl - no end,html,Unknown
+dc - pv - wet tester colour overview - be - no end,flc,4743368
+ar - pv - all pages - uy - no end,sp,941134768
+fp - pgv - facebook pixel purchase - fr - no end,cvt_31470972_1292,213728745844132
+fp - pgv - all pages - vn in id pk my th lk sg - no end,cvt_31470972_1292,2312942355642416
+ch - cl - adform open social media - pl - no end,html,Unknown
+ch - custom pixel inspiration - pl - no end,html,Unknown
+ci - pv - azul e verde - br - no end,img,https://bcp.crwdcntrl.net/5/c=11370/b=70137558
+ch - custom pixel advice overview - pl - no end,html,Unknown
+ci - pv - como ter uma casa protegida - br - no end,img,https://bcp.crwdcntrl.net/5/c=11370/b=70378213
+an - segment pixel easycare range - pl - no end,html,Unknown
+ch - custom pixel scrapbook - pl - no end,html,Unknown
+dc - pv - wet tester article ambiance tester - be - no end,flc,4743368
+fc - pv - all pages - uy - no end,flc,8543252
+ac - pv - store orders - be - no end,awct,620596905
+ci - lcl - paginas coloridas - br - no end,img,https://bcp.crwdcntrl.net/5/c=11370/b=70508076
+ar - pgv - adwords remarketing - lt - no end,sp,688848055
+ch - cl - adform register user - pl - no end,html,Unknown
+ch - ev - pageview count cookie - ru - no end,html,Unknown
+ch - custom pixel home - pl - no end,html,Unknown
+ch - ev - admedo pixel - br - no end,html,Unknown
+ci - pv - crwdcntrl newsletter thanks popup - br - no end,img,https://bcp.crwdcntrl.net/5/c=11370/b=54594342
+ac - pv - contact page - lt - no end,awct,688848055
+bg - pv - bing uet tag - fr - end 9907,baut,Unknown
+ch - custom pixel easycare range - pl - no end,html,Unknown
+ch - custom pixel colour overview - pl - no end,html,Unknown
+ci - pgv - mInsights - vn - no end,img,//vn-gmtdmp.mookie1.com/t/v2/activity?tagid=V2_914591&src.rand={{cjs - timestamp}}&
+go - vpv - optimize all pages - nl - no end,opt,Unknown
+fc - vpv - kleurtester - nl - no end,flc,5434613
+fc - vpv - creations - nl - no end,flc,5434613
+fs - sales flexa colour tester - nl - no end,fls,Unknown
+fc - ev - add to cart - nl - no end,flc,5434613
+fc - ev - add to wishlist - nl - no end,flc,5434613
+fc - ev - bereken - nl - no end,flc,5434613
+fc - ev - aanmelding nieuwsbrief - nl - no end,flc,5434613
+fc - ev - registreer - nl - no end,flc,5434613
+fc - ev - zoeken - nl - no end,flc,5434613
+at - pgv - adform campaign - nl - no end,cvt_31470972_676,1602892
+fc - evn - engaged unique user landing - uk - no end,flc,9233916
+ci - ev - xandr all pages - uk - no end,img,https://ib.adnxs.com/pixie?pi=2c7f8e97-fcff-4d5a-96ba-ec32d7361aee&e=LandingPage&page_type=<{{dlv - page.category.pageType - global}}>&page_name=<{{dlv - page.info.name}}>&script=0
+ci - ev - xandr cart page - uk - no end,img,https://ib.adnxs.com/pixie?pi=2c7f8e97-fcff-4d5a-96ba-ec32d7361aee&e=InitiateCheckout&page_type=<{{dlv - page.category.pageType - global}}>&page_name=<{{dlv - page.info.name}}>&stage_number=<STAGE_NUMBER>&stage_name=<STAGE_NAME>&primary_category=<{{dlv - page.category.primaryCategory - global}}>&product_type=<PRODUCT_TYPE>&in=<{{cjs - cart name - uk fr nl be}}>&size=<{{cjs - cart size - uk fr nl be}}>&colour_id=<{{cjs - cart colourIDs - uk fr nl be}}>&colour_name=<{{cjs - cart colourNames - uk fr nl be}}>&va=<{{dlv - cart.price.cartTotal}}>&script=0
+ci - ev - xandr checkout page - uk - no end,img,https://ib.adnxs.com/pixie?pi=2c7f8e97-fcff-4d5a-96ba-ec32d7361aee&e=Purchase&page_type=<{{dlv - page.category.pageType - global}}>&page_name=<{{dlv - page.info.name}}>&stage_name=<STAGE_NAME>&stage_number=<STAGE_NUMBER>&primary_category=<{{dlv - page.category.primaryCategory - global}}>&product_type=<PRODUCT_TYPE>&in=<{{cjs - transaction name - uk fr nl be}}>&size=<{{cjs - transaction size - uk fr nl be}}>&colour_id=<{{cjs - transaction colourIDs - uk fr nl be}}>&colour_name=<{{cjs - transaction colourNames - uk fr nl be}}>&va=<{{dlv - transaction.total.transactionTotal - uk fr nl be}}>&script=0
+"ci - ev - xandr all pages - se, dk, no - no end",img,https://ib.adnxs.com/pixie?pi=d2823504-5854-4e8a-b83a-c16968014570&e=PageView&script=0
+go - vpv - optimize all pages - be - no end,opt,Unknown
+ch - pgv - first visit cookie - uk - no end,html,Unknown
+fc - ev - product page - ie - no end,flc,2310749
+fs - ev - transaction - ie - no end,fls,Unknown
+fp - pgv - all pages - ie - no end,cvt_31470972_1292,239560854050268
+ga4 - pgv - configuration all pages - global - no end,googtag,{{ltb - ga4 trackingcode 2 production hostname}}
+ci - pgv - mInsights simply refresh - uk - no end,img,//gb-gmtdmp.mookie1.com/t/v2/activity?tagid=V2_957764&src.rand=[{{cjs - timestamp}}]&
+ci - pgv - mInsights colour of the year 2021 - uk - no end,img,//gb-gmtdmp.mookie1.com/t/v2/activity?tagid=V2_957771&src.rand=[{{cjs - timestamp}}]&
+ci - pgv - mInsights easycare kitchen - uk - no end,img,//gb-gmtdmp.mookie1.com/t/v2/activity?tagid=V2_957778&src.rand=[{{cjs - timestamp}}]&
+ci - pgv - mInsights shade grey - uk - no end,img,//gb-gmtdmp.mookie1.com/t/v2/activity?tagid=V2_957785&src.rand=[{{cjs - timestamp}}]&
+ci - pgv - mInsights hallways colour - uk - no end,img,//gb-gmtdmp.mookie1.com/t/v2/activity?tagid=V2_957792&src.rand=[{{cjs - timestamp}}]&
+ci - pgv - mInsights weathershield overview - uk - no end,img,//gb-gmtdmp.mookie1.com/t/v2/activity?tagid=V2_957988&src.rand=[{{cjs - timestamp}}]&
+ci - pgv - mInsights weathershield product 1 - uk - no end,img,//gb-gmtdmp.mookie1.com/t/v2/activity?tagid=V2_957995&src.rand=[{{cjs - timestamp}}]&
+ci - pgv - mInsights weathershield product 2 - uk - no end,img,//gb-gmtdmp.mookie1.com/t/v2/activity?tagid=V2_958002&src.rand=[{{cjs - timestamp}}]&
+ci - pgv - mInsights weathershield faq - uk - no end,img,//gb-gmtdmp.mookie1.com/t/v2/activity?tagid=V2_958009&src.rand=[{{cjs - timestamp}}]&
+ci - pgv - mInsights makeover article - uk - no end,img,//gb-gmtdmp.mookie1.com/t/v2/activity?tagid=V2_958016&src.rand=[{{cjs - timestamp}}]&
+ar - all pages remarketing - dk - no end,sp,813817007
+ar - all pages remarketing - no - no end,sp,813813958
+fc - pgv - engagement pixel - nl - no end,flc,5434613
+fc - vpv - colour detail pages link - uk - no end,flc,9233916
+ch - pgv - first visit cookie - nl - no end,html,Unknown
+ci - pgv - amazon pixel weathershield - uk - no end,img,https://aax-eu.amazon-adsystem.com/s/iui3?d=forester-did&ex-fargs=%3Fid%3D74fb95e5-ccc7-1a5b-0bdb-0e84effc056a%26type%3D55%26m%3D3&ex-fch=416613&ex-src=https://www.dulux.co.uk/en/weathershield&ex-hargs=v%3D1.0%3Bc%3D2063293224475%3Bp%3D74FB95E5-CCC7-1A5B-0BDB-0E84EFFC056A
+ch - pgv - bazaarvoice all pages - uk - no end,html,Unknown
+pi - pgv - pinterest all pages - br - no end,pntr,2612888495336
+ac - ev - roller tester add to cart - ie - no end,awct,1003746872
+ac - ev - roller tester purchase - ie - no end,awct,1003746872
+ch - pgv - bazaarvoice transaction - uk - no end,html,Unknown
+cl - pgv - all pages - lv - no end,gclidw,Unknown
+ac - pgv - google ads easyclean conversion - be - no end,awct,758875977
+ch - pgv - virtual shopper close conversation - no end,html,Unknown
+ch - pgv - virtual shopper open conversation - no end,html,Unknown
+ch - pv - mplatform airclean campaign tag - vn - no end,html,Unknown
+ci - pgv - simply refresh - uk - no end,img,https://sp.analytics.yahoo.com/spp.pl?a=10000&.yp=10156564&he=
+ba - pgv - all pages - cn - no end,html,Unknown
+mi - pgv - all pages - cn - no end,html,Unknown
+dc - pgv - all pages - nl - no end,flc,11480712
+dc - ev - add to cart - nl - no end,flc,11480712
+ds - pgv - order confirmation - nl - no end,fls,Unknown
+cw - pgv - core web vitals all pages - global - no end,cvt_31470972_1356,Unknown
+fc - vpv - product overview MH - uk - end 2502,flc,11547634
+fc - vpv - confirmation page MH - uk - end 2602,fls,Unknown
+fc - vpv - address page MH - uk - end 2602,flc,11547634
+fc - vpv - delivery page MH - uk - end 2502,flc,11547634
+fc - vpv - payment page MH - uk - end 2502,flc,11547634
+fc - vpv - product exterior MH - uk - end 2502,flc,11547634
+fc - vpv - product interior MH - uk - end 2502,flc,11547634
+fc - vpv - cart page MH - uk end 2602,flc,11547634
+fc - evn - engaged unique user landing MH - uk - end 2502,flc,11547634
+fc - vpv - all pages MH - uk - end 2602,flc,11547634
+fc - vpv - colour overview page MH - uk - end 2502,flc,11547634
+fc - ev - colour overview add to cart MH - uk - end 2602,flc,11547634
+fp - evn - purchase confirmation MH - global - end 2502,cvt_31470972_1292,{{cst - fb ID MediaHub - global}}
+fp - evn - newsletter subscription MH - global - end 2502,cvt_31470972_1292,{{cst - fb ID MediaHub - global}}
+fc - pv - all pages MH - ie - end 2602,flc,11546518
+fc - ev - purchase confirmation MH - ie - end 2502,fls,Unknown
+fp - pgv - all pages MH - pl - end 2502,cvt_31470972_1292,{{cst - fb ID MediaHub - global}}
+fp - evn - newsletter subscription MH - pl - end 2502,cvt_31470972_1292,{{cst - fb ID MediaHub - global}}
+fp - evn - add to shoppinglist MH - pl - end 2502,cvt_31470972_1292,{{cst - fb ID MediaHub - global}}
+fc - pv - all pages MH - gr - end 2702,flc,11532210
+ch - pgv - eventListener PDPs add-to-shopping-list - global - no end,html,Unknown
+fc - pv - all pages MH - in - end 2602,flc,11531946
+fc - pv - all pages MH - za - end 2602,flc,11573732
+fp - evn - add to cart MH - global - end 2502,cvt_31470972_1292,{{cst - fb ID MediaHub - global}}
+fc - pv - all pages MH - fr - end 2602,flc,11626093
+fc - ev - purchase confirmation MH - fr - end 2502,fls,Unknown
+fc - pv - all pages MH - be - end 2502,flc,11532207
+fc - ev - purchase confirmation MH - be - end 2502,fls,Unknown
+fc - pv - all pages MH - uy - end 2602,flc,11531610
+fc - pv - all pages MH - ar - end 2502,flc,11531943
+fc - pv - all pages MH - nl - end 2602,flc,11480712
+fc - ev - purchase confirmation MH - nl - end 2502,fls,Unknown
+fp - evn - add to shoppinglist MH - es - end 2502,cvt_31470972_1292,{{cst - fb ID MediaHub - global}}
+fp - pgv - all pages MH - global - end 2502,cvt_31470972_1292,{{cst - fb ID MediaHub - global}}
+fp - evn - add to shoppinglist MH - it - end 2502,cvt_31470972_1292,{{cst - fb ID MediaHub - global}}
+fp - evn - add to shoppinglist MH - br - end 2502,cvt_31470972_1292,{{cst - fb ID MediaHub - global}}
+fp - evn - add to shoppinglist MH - global - end 2502,cvt_31470972_1292,{{cst - fb ID MediaHub - global}}
+fp - evn - find store MH - global - end 2503,cvt_31470972_1292,{{cst - fb ID MediaHub - global}}
+fc - pv - products outside MH - be - end 2502,flc,11532207
+fc - pv - products inside MH - be - end 2502,flc,11532207
+fc - pv - storefinder page MH - be - end 2502,flc,11532207
+ce - ev - find product in store MH - be - end 2502,flc,11532207
+fc - pv - colour overview page MH - be - end 2602,flc,11532207
+fp - evn - add to shoppinglist MH - se - end 2604,cvt_31470972_1292,{{cst - fb ID MediaHub - global}}
+fp - evn - add to shoppinglist MH - no - end 2604,cvt_31470972_1292,{{cst - fb ID MediaHub - global}}
+fp - evn - add to shoppinglist MH - dk - end 2604,cvt_31470972_1292,{{cst - fb ID MediaHub - global}}
+fc - ev - colour detail page MH - it - end 2605,flc,11732107
+fc - pv - product pages MH - gr - end 2604,flc,11532210
+fc - ce - colour detail view - gr - no end,flc,11532210
+fc - pv - all pages MH- it - end 2602,flc,11732107
+fc - pv - product pages MH - it - end 2605,flc,11732107
+fc - pv - product pages MH - es - end 2605,flc,11618268
+fc - pv - all pages MH - es - end 2605,flc,11618268
+fc - pv - product pages MH - in - end 2605,flc,11531946
+fc - pv - all pages MH - no - end 2605,flc,11677550
+fc - pv - product pages MH - no - end 2605,flc,11677550
+go - vpv - optimize all pages - my - no end,opt,Unknown
+go - vpv - optimize all pages - sg - no end,opt,Unknown
+go - vpv - optimize all pages - uk - no end,opt,Unknown
+pt - pgv - pinterest levis.info - be - no end,pntr,2614341927942
+bg - ev - bing transaction revenue - uk - no end,baut,Unknown
+fp - pgv - dulux-aquatech - in - no end,cvt_31470972_1292,4858297497584004
+ch - pgv - munchkin script - global - no end,html,Unknown
+fp - evn - add to shoppinglist MH - ma - end 2608,cvt_31470972_1292,{{cst - fb ID MediaHub - global}}
+fp - evn - add to shoppinglist MH - global - end 2608,cvt_31470972_1292,{{cst - fb ID MediaHub - global}}
+fp - evn - find store MH - global - end 2608,cvt_31470972_1292,{{cst - fb ID MediaHub - global}}
+fp - evn - newsletter subscription MH - global - end 2608,cvt_31470972_1292,{{cst - fb ID MediaHub - global}}
+fc - pv - colour testers landingpage MH - be - end 2501,flc,11532207
+fp - evn - add to wishlist MH - global - end 2502,cvt_31470972_1292,{{cst - fb ID MediaHub - global}}
+fc - vpv - product overview & page MH - uk - end 2502,flc,11547634
+ac - ce - dulux promise timer - hk - end 2501,awct,11046166668
+fp - pgv - all pages - lv - end 2502,cvt_31470972_1292,632339417246736
+fc - vpv - easycare page MH - uk - end 2503,flc,11547634
+fc - vpv - simply-refresh page MH - uk - end 2503,flc,11547634
+"hj - pgv - heatmap test - uk, nl, br, in, es, za - no end",hjtc,Unknown
+fp - pgv - product pages MH - fr - end 2605,cvt_31470972_1292,{{cst - fb ID MediaHub - global}}
+fp - pgv - checkout pages MH - fr - end 2605,cvt_31470972_1292,{{cst - fb ID MediaHub - global}}
+fc - pgv - checkout pages MH - fr - end 2605,flc,11626093
+fc - ev - store finder MH - fr - end 2605,flc,11626093
+fc - ev - newsletter subscription MH - fr - end 2605,flc,11626093
+fc - pv - product pages MH - fr - end 2605,flc,11626093
+fc - ev - add to cart MH - se - end 2605,flc,11618271
+fc - ev - add to wishlist MH - se - end 2605,flc,11618271
+fc - pv - all pages MH - se - end 2605,flc,11618271
+fc - pv - colour detail pages MH - se - end 2605,flc,11618271
+fc - pv - contact page MH - se - end 2605,flc,11618271
+fc - ev - find store MH - se - end 2605,flc,11618271
+fc - pv - product pages MH - se - end 2605,flc,11618271
+fc - ev - purchase confirmation MH - se - end 2505,fls,Unknown
+ac - pv - leadform submission - id - end 2606,awct,11065962836
+ac - pv - leadform submission - pk - end 2606,awct,11065899403
+ac - pv - leadform submission - vn - end 2606,awct,11071881009
+fc - pgv - all pages - in - end 2607,flc,12620584
+fc - pgv - all pages - vn - end 2607,flc,12620584
+fc - pgv - all pages - id - end 2607,flc,12620584
+fc - pgv - all pages - my - end 2607,flc,12620584
+fc - pgv - all pages - sg - end 2607,flc,12620584
+fc - pgv - all pages - th - end 2607,flc,12620584
+fc - pgv - all pages - pk - end 2607,flc,12620584
+fc - pgv - all pages - lk - end 2607,flc,12620584
+fp - pgv - all pages - lt - end 2608,cvt_31470972_1292,320672718469481
+ar - pgv - pgv cf24 - pl - 2410,sp,JhyGCJPRkN0YELHo4eoD
+fl - ev - cf24 mobile download iOS - pl - 2410,flc,{{cst - fc ID - PL}}
+fl - ev - cf24 mobile download Android - pl - 2410,flc,{{cst - fc ID - PL}}
+fl - pgv - pgv cf24 - pl - 2410,flc,{{cst - fc ID - PL}}
+fc - ev - start newsletter cf24 - pl - 2410,flc,{{cst - fc ID - PL}}
+qa - pgv - thank you page - in - end 251024,qpx,Unknown
+qa - pgv - all pages - in - end 251024,qpx,Unknown
+ar - all pages remarketing - vn - end 2411,sp,11368163167
+fp - pgv - br - end 2412,cvt_31470972_1292,885691916473485
+ac - pv - Paint My Home - in - end 25/01,awct,11451526952
+ac - pv - Remarketing - Paint My Home - in - end 25/01,sp,11451526952
+fp - pgv - all pages - in - no end,cvt_31470972_1292,922947736209435
+ar - all pages remarketing - in - end 2502,sp,11451526952
+ch - ce - gtm monitor v2 - global - no end,cvt_31470972_2992,Unknown
+fc - pgv - all pages - sg - end 2503,flc,14164218
+pt - pgv - pinterest all pages - uk - no end,pntr,2615523521550
+ch - ce - colourplay advice seen - global - no end,html,Unknown
+gtag - pgv - in - no end,googtag,AW-11451526952
+gtag - ev - thank you page - no end,awct,11451526952
+Google Consent Mode - Update Consent,cvt_31470972_2971,Unknown
+Google Consent Mode - Default Consent,cvt_31470972_2971,Unknown
+Gtag - pvg - AW-11457045439 - th - no end,googtag,11457045439
+Conv. linker - pgv - th - no end,gclidw,Unknown
+ac - pvg -decorating-tips-and-advice - th - no end,awct,11457045439
+ac - pvg - products - th - no end,awct,11457045439
+ac - pvg - dulux preview service - th - no end,awct,11457045439
+ac - pvg - colour inspiration - th - no end,awct,11457045439
+ac - pvg - paint calculator - th - no end,awct,11457045439
+ac - pvg - ceiling - th - no end,awct,11457045439
+ac - pvg - interior - th - no end,awct,11457045439
+ac - pvg - exterior - th - no end,awct,11457045439
+ac - pvg - steel - th - no end,awct,11457045439
+ac - pvg - primer - th - no end,awct,11457045439
+ac - pvg - woodstain - th - no end,awct,11457045439
+Conv. linker - pgv - in - no end,gclidw,Unknown
+gt - UA-69298406-2 - all properties - no end,googtag,UA-69298406-2
+ga - pgv - all pages MH - gr,googtag,AW-982187195
+ga - transaction MH - gr - no end,awct,982187195
+Conv. linker - pgv - gr - no end,gclidw,Unknown
+gtag - pgv - all pages MH - be,googtag,1015718707
+ga - ev - purchase confirmation MH - ev,awct,1015718707
+Conv. linker - pgv - be - no end,gclidw,Unknown
+ac - pv - transaction - MH - nl - no end,awct,1043704852
+Gtag - pvg - AW-1043704852- MH - nl - no end,googtag,AW-1043704852
+Conv. linker - pgv - nl - no end,gclidw,Unknown
+ac - ce - levis timer - be - no end,awct,1015718707
+ac - ce - vivechrom timer - gr - no end,awct,982187195
+ac - ce - flexa timer - nl - no end,awct,1043704852
+ac - ce - dulux.pl timer - pl - no end,awct,1029207089
+Gtag - pvg - AW-982187195- MH - gr- no end,googtag,AW-982187195
+Gtag - pvg - AW-1029207089- MH - pl- no end,googtag,AW-1029207089
+ac - pv - register newsletter - dulux.vn - end 2606,awct,11368163167
+ac - ev - qualified visit - vn - no end,awct,11368163167
+ac - ev - qualified visit - maxilite.dulux.vn - no end,awct,11368163167
+ac - purchase - uk - no end,awct,977159460
+Ga - ev - transaction - MH - ie - no end,awct,1003746872
+gtag - pgv - all pages MH - 1003746872 - ie,googtag,1003746872
+ac - pv - register newsletter - maxilite.dulux.vn - end 2606,awct,11368163167
+ac - ce - timer - dulux ie MH - no end,awct,1003746872
+ac - ce - duluxvalentine timer - MH - fr - no end,awct,991791023
+fp - pgv - all pages - th - no end,cvt_31470972_1292,1049340096612776
+ac - ce - dulux.hu timer - hu- no end,awct,863726752
+gtag - pgv - 863726752 - MH,googtag,863726752
+ac - pgv - google ads conversion tracking pageviews - dulux.co.id - end -07/25,awct,11468470387
+ac - pgv - google ads conversion tracking button clicks- dulux.co.id - end 07/25,awct,11468470387
+ac - ev - google ads conversion tracking ask dulux button - dulux.co.id - end 07/25,awct,11468470387
+fl - pv - various pageview dulux.id - id - end 07/25,flc,2472835
+fl - ce - various button clicks dulux.id - id - end 07/25,flc,2472835
+tt - pv - conversion pages dulux.co.id - end 07/25,cvt_31470972_3120,CN0QCHJC77U1PJEFUJTG
+fl - ev - conversion tracking ask dulux button - dulux.co.id - end 07/25,flc,2472835
+tt - pv - conversion button clicks dulux.co.id - end 07/25,cvt_31470972_3120,CN0QCHJC77U1PJEFUJTG
+fp - pv- conversion pages dulux.in - in - end 07/25,cvt_31470972_1292,880944440187199
+tt - pv - conversion tracking ask Dulux - dulux.co.id - end 07/25,cvt_31470972_3120,CN0QCHJC77U1PJEFUJTG
+fp - ce - conversion buttons dulux.in - in - end 07/25,cvt_31470972_1292,880944440187199
+tt - pv - tiktok script on conversion pages dulux.co.id - end 07/25,html,Unknown
+fp - pgv - lead for submission - in - no end,cvt_31470972_1292,922947736209435
+ga - pgv - AW-11451526952 - in - no end,awct,11451526952
+ac - ev - google ads conversion tracking button - dulux.co.uk - end 08/25,awct,1008905277
+Copy of fp - pgv - all pages - th - no end,cvt_31470972_1292,1143835429974635
+fp - pgv - home page - vn - no end,cvt_31470972_1292,1177736903560387
+fp - pgv - maxilite.dulux.vn - vn - no end,cvt_31470972_1292,8102125969882281
+ac - ev - qualified visit MCC - maxilite.dulux.vn - no end,awct,11368256024
+ac - ev - qualified visit MCC - vn - no end,awct,11368256024
+ac - pv - register newsletter MCC - maxilite.dulux.vn - end 2609,awct,11368256024
+ac - pv - register newsletter MCC - dulux.vn - end 2609,awct,11368256024
+dc - pgv - all pages - vn - no end,flc,13716932
+dc - pgv - all pages - vn maxilite - no end,flc,13716932
+ac - ce - nordsjo timer - MH - dk - 082025,awct,813817007
+ac - ce - nordsjo.no timer - no - 082025,awct,813813958
